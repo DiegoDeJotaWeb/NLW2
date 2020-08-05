@@ -46,4 +46,4 @@ Quando o processo terminar, abrirá automaticamente a página localhost:3000no s
 
 [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
 
-Feito com ♥ por Diego Rodrigues :wave: [Get in touch!](https://www.linkedin.com/in/diego-rodrigues-14925850/)
+Feito com ♥ por Diego Rodrigues :wave: [Entrar em contato!](https://www.linkedin.com/in/diego-rodrigues-14925850/)
