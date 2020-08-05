@@ -18,7 +18,7 @@ O projeto consiste em professores que oferecem aulas aos alunos, nas mais divers
   </a>
 </p> -->
 <h1 align="center">
-  <img src="web/src/assets/images/algoritmoWork in progress....gif"></img>
+  <img src="web/src/assets/images/algoritmo.gif"></img>
   <p align="center"> <strong></strong>Trabalho em progresso... </p>
 </h1>
 
