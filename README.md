@@ -1,5 +1,5 @@
-# NLW2
-Next level week #2
+# NLW #2
+
 
 
 <img src="web/src/assets/images/NLW-02.jpg" align="center"></img>
@@ -18,11 +18,11 @@ O projeto consiste em professores que oferecem aulas aos alunos, nas mais divers
   </a>
 </p> -->
 <h1 align="center">
-  <img src="web/src/assets/images/algoritmo.gif"></img>
+  <img src="web/src/assets/images/algoritmos.gif"></img>
   <p align="center"> <strong></strong>Trabalho em progresso... </p>
 </h1>
 
-## Instalation
+## Instalação
 Para instalar as dependências e executar o **Frontend** , clone o projeto no seu computador e execute:
 ```bash
 cd web
